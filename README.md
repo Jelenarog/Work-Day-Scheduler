@@ -16,7 +16,7 @@ git clone git@github.com:Jelenarog/Work-Day-Scheduler.git
 
 ---
 ## Links
-[Github Repository Link](https://github.com/Jelenarog/Quiz)<br/>
+[Github Repository Link](https://github.com/Jelenarog/Work-Day-Scheduler)<br/>
  [Deployed website](https://jelenarog.github.io/Work-Day-Scheduler/)<br/>
  [HTML code](.//Assets/Images/HTML%20code.png)<br/>
  [JavaScript](.//Assets/Images/Java.sc.png)
